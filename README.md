@@ -2,16 +2,14 @@
   <img src="banner.png" alt="plankq" width="100%" />
 </p>
 
-i run **[vanillaroyale](https://discord.gg/vanillaroyale)** and build most of what's on it — the plugins, the minigames, the resource packs, the shaders that draw the hud, the panel we run the servers from, and the discord bot.
+Minecraft developer and owner of **[VanillaRoyale](https://discord.gg/vanillaroyale)**. I build and maintain the network's software end to end: custom plugins and minigames, resource packs and HUD shaders, the web panel used to manage our servers, and our Discord bot.
 
-before that: owner @ mcroyale · admin @ aurora client · general manager @ crystalranked · media @ vanillachaos
+**Previously:** Owner at MCRoyale · Admin at Aurora Client · General Manager at CrystalRanked · Media Management at VanillaChaos
 
-<br/>
-
-**what i work with**
+### Tech stack
 
 <img src="https://skillicons.dev/icons?i=java,py,js,html,css,opengl,mysql,nodejs,cloudflare,gradle,maven,git,linux&perline=13" height="34" />
 
-<br/>
+### Contact
 
-<sub>[discord](https://discord.gg/vanillaroyale) · [builtbybit](https://builtbybit.com/members/YOUR-BBB-ID)</sub>
+[Discord](https://discord.gg/vanillaroyale) · [BuiltByBit](https://builtbybit.com/members/YOUR-BBB-ID)
