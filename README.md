@@ -20,4 +20,4 @@
 
 ### Contact
 
-> [Discord](https://discord.gg/vanillaroyale) · [BuiltByBit](https://builtbybit.com/members/YOUR-BBB-ID)
+> [Discord](https://discord.com/users/1298551005637640222) · [BuiltByBit](https://builtbybit.com/members/YOUR-BBB-ID)
