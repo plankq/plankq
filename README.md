@@ -2,7 +2,7 @@
   <img src="banner.png" alt="plankq" width="100%" />
 </p>
 
-Minecraft developer and owner of **[VanillaRoyale](https://discord.gg/vanillaroyale)**. I build and maintain the network's software end to end: custom plugins and minigames, resource packs and HUD shaders, the web panel used to manage our servers, and our Discord bot.
+Minecraft developer focused on building complete server experiences: custom plugins and minigames, resource packs and HUD shaders, web panels for server management, and Discord bots. Currently the owner of **[VanillaRoyale](https://discord.gg/vanillaroyale)**.
 
 ### Previously
 
