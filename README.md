@@ -2,7 +2,10 @@
   <img src="banner.png" alt="plankq" width="100%" />
 </p>
 
-Minecraft developer focused on building complete server experiences: custom plugins and minigames, resource packs and HUD shaders, web panels for server management, and Discord bots. Currently the owner of **[VanillaRoyale](https://discord.gg/vanillaroyale)**.
+> Minecraft developer focused on building complete server experiences: custom plugins and minigames, resource packs and HUD shaders, web panels for server management, and Discord bots.
+
+> [!NOTE]
+> **Currently:** Owner of **[VanillaRoyale](https://discord.gg/vanillaroyale)**
 
 ### Previously
 
@@ -17,4 +20,4 @@ Minecraft developer focused on building complete server experiences: custom plug
 
 ### Contact
 
-[Discord](https://discord.gg/vanillaroyale) · [BuiltByBit](https://builtbybit.com/members/YOUR-BBB-ID)
+> [Discord](https://discord.gg/vanillaroyale) · [BuiltByBit](https://builtbybit.com/members/YOUR-BBB-ID)
