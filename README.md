@@ -5,13 +5,13 @@
 > Minecraft developer focused on building complete server experiences: custom plugins and minigames, resource packs and HUD shaders, web panels for server management, and Discord bots.
 
 > [!NOTE]
-> **Currently:** Owner of **[VanillaRoyale](https://discord.gg/vanillaroyale)**
+> **Currently:** Manager at **CrystalRanked**
 
 ### Previously
 
+- **Owner** at VanillaRoyale
 - **Owner** at MCRoyale
 - **Admin** at Aurora Client
-- **General Manager** at CrystalRanked
 - **Media Management** at VanillaChaos
 
 ### Tech stack
